@@ -6,11 +6,11 @@
  *    Description:  
  *
  *        Version:  1.0
- *        Created:  12/02/2017 20:05:55
+ *        Created:  01/08/2024 20:05:55
  *       Revision:  none
  *       Compiler:  arm-none-eabi-gcc
  *
- *         Author:  Francisco Helder (FHC), helderhdw@gmail.com
+ *         Author:  Álisson Rodrigues Fernandes, alissonrodriguesfernandes12@alu.ufc.br
  *   Organization:  UFC-Quixadá
  *
  * =====================================================================================
